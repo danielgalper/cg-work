@@ -1,8 +1,0 @@
-/home/daniel/Git/cg-work/cg-build/examples/convex_hull/CMakeFiles/andrew_hull.dir
-/home/daniel/Git/cg-work/cg-build/tests/CMakeFiles/cg-test.dir
-/home/daniel/Git/cg-work/cg-build/tests/CMakeFiles/cg_test_headers.dir
-/home/daniel/Git/cg-work/cg-build/examples/convex_hull/CMakeFiles/graham_hull.dir
-/home/daniel/Git/cg-work/cg-build/examples/operations/CMakeFiles/triangle_contains_point.dir
-/home/daniel/Git/cg-work/cg-build/examples/viewer/CMakeFiles/viewer-example.dir
-/home/daniel/Git/cg-work/cg-build/src/CMakeFiles/visualization.dir
-/home/daniel/Git/cg-work/cg-build/include/CMakeFiles/visualization_headers.dir

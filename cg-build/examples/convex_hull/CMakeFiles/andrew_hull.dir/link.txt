@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -Wall    CMakeFiles/andrew_hull.dir/andrew_hull.cpp.o  -o andrew_hull -rdynamic ../../src/libvisualization.a -lgmp -lQtOpenGL -lQtGui -lQtCore -lGLU -lGL -lX11 -lXext 
